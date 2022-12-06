@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://zippy-blancmange-69c53a.netlify.app/](https://zippy-blancmange-69c53a.netlify.app/)
+- Solution URL: [https://github.com/lnk64/frontend_mentor-Social-proof-section](https://github.com/lnk64/frontend_mentor-Social-proof-section)
 - Live Site URL: [https://zippy-blancmange-69c53a.netlify.app/](https://zippy-blancmange-69c53a.netlify.app/)
 
 ## My process
